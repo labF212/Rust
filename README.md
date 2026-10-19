@@ -38,3 +38,9 @@ eframe = "0.28" # Framework para janelas e aplicações GUI
 ### main.rs
 O ficheiro main.rs, é onde se  faz a programação e fica na pasta scr
 
+## Correr e compilar o programa
+cargo run
+<i> (O executável é gerado em target/debug/).</i> - Usar para programar
+
+cargo run --release
+<i>(O executável é gerado em target/release/).</i> - Usar para enviar a alguém
