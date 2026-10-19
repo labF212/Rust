@@ -19,11 +19,22 @@ Para verificar se você possui Rust instalado corretamente, abra um shell e digi
 
 $ rustc --version
 
-## Pastas do Rust
+## Ficheiros e Pastas do Rust
 
 <p align="center">
   <img src="rust_folders.png" alt="Pastas necessárias ao Rust" width="400">
 </p>
 
-Cargo.toml
-main.rs
+### Cargo.toml
+Este ficheiro tem a configuração dos ficheiros e dependências necessárias
+
+name = "flet_rust_app"
+version = "0.1.0"
+edition = "2021"
+
+dependências
+eframe = "0.28" # Framework para janelas e aplicações GUI
+
+### main.rs
+O ficheiro main.rs, é onde se  faz a programação e fica na pasta scr
+
