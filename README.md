@@ -5,7 +5,8 @@ Just some examples conversions
 
 curl https://sh.rustup.rs -sSf | sh
 
-O script de instalação adiciona Rust automaticamente ao PATH do sistema após seu próximo login. Se você deseja começar a usar Rust imediatamente, em vez de reiniciar o terminal, execute o seguinte comando no shell para adicionar Rust ao PATH do sistema manualmente:
+O script de instalação adiciona Rust automaticamente ao PATH do sistema após seu próximo login. 
+Se você deseja começar a usar Rust imediatamente, em vez de reiniciar o terminal, execute o seguinte comando no shell para adicionar Rust ao PATH do sistema manualmente:
 
 $ source $HOME/.cargo/env
 
