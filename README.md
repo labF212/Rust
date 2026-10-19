@@ -22,5 +22,5 @@ $ rustc --version
 ## Pastas do Rust
 
 <p align="center">
-  <img src="pastas.png" alt="Pastas necessárias ao Rust" width="400">
+  <img src="rust_folders.png" alt="Pastas necessárias ao Rust" width="400">
 </p>
