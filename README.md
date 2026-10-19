@@ -19,3 +19,8 @@ Para verificar se você possui Rust instalado corretamente, abra um shell e digi
 
 $ rustc --version
 
+## Pastas do Rust
+
+<p align="center">
+  <img src="pastas.png" alt="Pastas necessárias ao Rust" width="400">
+</p>
