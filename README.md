@@ -24,3 +24,6 @@ $ rustc --version
 <p align="center">
   <img src="rust_folders.png" alt="Pastas necessárias ao Rust" width="400">
 </p>
+
+Cargo.toml
+main.rs
